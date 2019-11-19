@@ -1,1 +1,1 @@
-# Pluralsight Cource on Storybook
+# Pluralsight Storybook
